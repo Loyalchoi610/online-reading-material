@@ -12,3 +12,6 @@ https://www.edwith.org/boostcourse-ui/lecture/36667/
 ### 리엑트 네이티브
 
 https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-with-javascript
+
+### Virtual DOM
+https://dev.to/ycmjason/building-a-simple-virtual-dom-from-scratch-3d05
