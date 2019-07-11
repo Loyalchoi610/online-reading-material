@@ -15,3 +15,7 @@ https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-wi
 
 ### Virtual DOM
 https://dev.to/ycmjason/building-a-simple-virtual-dom-from-scratch-3d05
+
+
+### 트렌젝션 기초
+https://vladmihalcea.com/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/
